@@ -558,6 +558,9 @@ input, select, textarea {
 			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
+			background: -webkit-linear-gradient(rgba(244, 241, 241, 0.507), rgb(14, 1, 2));
+  			-webkit-background-clip: text;
+  			-webkit-text-fill-color: transparent;
 		}
 
 		#header p {
