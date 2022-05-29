@@ -730,6 +730,12 @@ input, select, textarea {
 		width: 100%;
 	}
 
+
+	.bold-text{
+		font-weight: bold;
+		color: initial !important;
+	}
+
 /* Wide */
 
 	@media screen and (max-width: 1680px) {
